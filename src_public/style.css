@@ -1,0 +1,29 @@
+h1{
+    color: blue;
+    font-size: 60px;
+
+}
+
+p{
+    color: ultramarine;
+    font-size: 30px;
+}
+
+button{
+    background-color: rgb(168, 60, 182);
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+body {
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    justify-content: center;
+    flex-direction: column;
+}

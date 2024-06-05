@@ -1,0 +1,11 @@
+
+
+Si ejecuto con node 1_HolaMundo.js
+
+marca error no esta instalado express
+
+
+- npm init
+- npm install express
+
+- node .\1_HolaMundo.js
