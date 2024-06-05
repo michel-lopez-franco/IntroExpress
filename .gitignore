@@ -1,0 +1,21 @@
+# Módulos y dependencias instalados por npm
+node_modules/
+
+# Archivos y carpetas generados por el propio sistema de archivos de Node.js
+*.log
+npm-debug.log*
+
+# Carpeta generada por npm 5+
+.pnp/
+.pnp.js
+
+# Carpetas específicas de los sistemas operativos (por ejemplo, macOS)
+.DS_Store
+
+# Carpetas específicas de los editores de texto/IDEs (por ejemplo, Visual Studio Code)
+.vscode/
+.idea/
+
+# Carpetas específicas de las herramientas de desarrollo (por ejemplo, Webpack)
+/dist/
+/build/
